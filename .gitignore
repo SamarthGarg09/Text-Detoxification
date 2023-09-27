@@ -1,0 +1,12 @@
+civil_comments_ds
+/Data/deeksha/disha/code_p/text-detoxification/civil_comments_ds
+model
+wandb
+civil_comments_subset
+evaluation
+__pycache__
+pretrained_model.py
+interpret.py
+evaluation/model
+evaluation/wandb
+evaluation/test
