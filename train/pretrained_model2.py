@@ -14,7 +14,7 @@ from collections import defaultdict
 from tqdm.auto import tqdm
 import numpy as np
 import pandas as pd
-from early_stopping import EarlyStopping
+from train.early_stopping import EarlyStopping
 from simple_evaluator import Evaluator
 from torch.nn.functional import cosine_similarity
 
