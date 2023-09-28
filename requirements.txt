@@ -1,0 +1,8 @@
+pytorch
+transformers
+datasets
+sklearn
+wandb
+re
+sentence_transformers
+numpy
